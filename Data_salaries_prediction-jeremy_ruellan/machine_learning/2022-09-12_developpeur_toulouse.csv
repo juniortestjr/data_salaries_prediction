@@ -1,0 +1,752 @@
+Title,Company,Location,Description,Salary,Expérience,Anglais,Python,SQL,Azure,Spark,Dataiku,AWS,GCP,Spacy,NLTK,Hugging Face,BERT,Bac+1,Bac+2,Bac+3,Bac+4,Bac+5,Bac+4/5,Bac+3/4,TensorFlow,Torch,PyTorch,Keras,Django,Javascript,MongoDB,Master,PostgreSQL,Power BI,Nodejs,Node,PHP,ASP,Java,C++,Flutter,Dart,Flask,mySQL,Jquery,CSS,HTML,XML,SGBD,Agile,Scrum
+Développeur,TOHTEM IT,Toulouse,"
+Définition de jeux de données de test.
+Spécification technique de composants techniques (TA).
+",39000.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,TOHTEM IT,Toulouse,"Dans le cadre de la croissance d’un projet client et au sein d’une équipe dynamique, nous recrutons un développeur PHP Symfony. Votre mission consistera à…",39000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,CARRERE,Toulouse,"
+Type du poste : CDI – Temps plein *.
+*Part mutuelle prise en charge par l’employeur *.
+Prospection et recherche de terrains constructibles à destination de…
+",65000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+UN/UNE DÉVELOPPEUR WEB EN CDI*.
+Type d'emploi : CDI, Temps plein.
+",32500.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+UN/UNE DÉVELOPPEUR WEB EN CDI*.
+Type d'emploi : CDI, Temps plein.
+",32500.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Pôle Emploi,Toulouse,"
+Concevoir et développer les programmes et applications informatiques.
+",37000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Safti siège,Toulouse,"
+Créé en 2010, autour d’un concept novateur, SAFTI a réinventé le domaine de l’immobilier en ayant fait le pari de l’absence d’agence physique à la faveur d’un…
+",39000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Pôle Emploi,Toulouse,"
+Concevoir et développer les programmes et applications informatiques.
+",37000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Safti siège,Toulouse,"
+Créé en 2010, autour d’un concept novateur, SAFTI a réinventé le domaine de l’immobilier en ayant fait le pari de l’absence d’agence physique à la faveur d’un…
+",39000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Safti siège,Toulouse,"
+Créé en 2010, autour d’un concept novateur, SAFTI a réinventé le domaine de l’immobilier en ayant fait le pari de l’absence d’agence physique à la faveur d’un…
+",39000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Pôle Emploi,Toulouse,"
+Concevoir et développer les programmes et applications informatiques.
+",37000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Safti siège,Toulouse,"
+Créé en 2010, autour d’un concept novateur, SAFTI a réinventé le domaine de l’immobilier en ayant fait le pari de l’absence d’agence physique à la faveur d’un…
+",39000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Safti siège,Toulouse,"
+Créé en 2010, autour d’un concept novateur, SAFTI a réinventé le domaine de l’immobilier en ayant fait le pari de l’absence d’agence physique à la faveur d’un…
+",39000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Pôle Emploi,Toulouse,"
+Concevoir et développer les programmes et applications informatiques.
+",37000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Safti siège,Toulouse,"
+Créé en 2010, autour d’un concept novateur, SAFTI a réinventé le domaine de l’immobilier en ayant fait le pari de l’absence d’agence physique à la faveur d’un…
+",39000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+UN/UNE DÉVELOPPEUR WEB EN CDI*.
+Type d'emploi : CDI, Temps plein.
+",32500.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Pôle Emploi,Toulouse,"
+Concevoir et développer les programmes et applications informatiques.
+",37000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+UN/UNE DÉVELOPPEUR WEB EN CDI*.
+Type d'emploi : CDI, Temps plein.
+",32500.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Safti siège,Toulouse,"
+Créé en 2010, autour d’un concept novateur, SAFTI a réinventé le domaine de l’immobilier en ayant fait le pari de l’absence d’agence physique à la faveur d’un…
+",39000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Pôle Emploi,Toulouse,"
+Concevoir et développer les programmes et applications informatiques.
+",37000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+UN/UNE DÉVELOPPEUR WEB EN CDI*.
+Type d'emploi : CDI, Temps plein.
+",32500.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Safti siège,Toulouse,"
+Créé en 2010, autour d’un concept novateur, SAFTI a réinventé le domaine de l’immobilier en ayant fait le pari de l’absence d’agence physique à la faveur d’un…
+",39000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+Vous serez amené(e) à réaliser le développement opérationnel de…
+",47500.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+Vous serez amené(e) à réaliser le développement opérationnel de…
+",47500.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+Vous serez amené(e) à réaliser le développement opérationnel de…
+",47500.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+Vous serez amené(e) à réaliser le développement opérationnel de…
+",47500.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+Vous serez amené(e) à réaliser le développement opérationnel de…
+",47500.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,Totem numérique,Toulouse,"
+Minimum 4 ans d’expérience.
+Motivé(e) et prêt à apprendre des nouvelles technologies.
+Être organisé(e), méthodique et force de proposition.
+",45000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,STRATEG IN,Toulouse,"
+Nous développons, implémentons et déployons des applicatifs sur-mesure chez nos clients.
+Vous serez amené(e) à réaliser le développement opérationnel de…
+",47500.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Totem numérique,Toulouse,"
+Minimum 4 ans d’expérience.
+Motivé(e) et prêt à apprendre des nouvelles technologies.
+Être organisé(e), méthodique et force de proposition.
+",45000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Totem numérique,Toulouse,"
+Minimum 4 ans d’expérience.
+Motivé(e) et prêt à apprendre des nouvelles technologies.
+Être organisé(e), méthodique et force de proposition.
+",45000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Totem numérique,Toulouse,"
+Minimum 4 ans d’expérience.
+Motivé(e) et prêt à apprendre des nouvelles technologies.
+Être organisé(e), méthodique et force de proposition.
+",45000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Totem numérique,Toulouse,"
+Minimum 4 ans d’expérience.
+Motivé(e) et prêt à apprendre des nouvelles technologies.
+Être organisé(e), méthodique et force de proposition.
+",45000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Cozynergy,Toulouse,"
+Disposant d'une solide base PHP 8 / Symfony 5 / JavaScript (Node.js tout particulièrement), vous développerez vos compétences en API GraphQL, et en utilisation…
+",44000.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ETHICS Group,Toulouse,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Safti siège,Toulouse,"
+Créé en 2010, autour d’un concept novateur, SAFTI a réinventé le domaine de l’immobilier en ayant fait le pari de l’absence d’agence physique à la faveur d’un…
+",36000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Armée de Terre française,Toulouse,"
+Au bout de 4 à 6 ans, vous pouvez évoluer vers les métiers de la cybersécurité.
+",12000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Notre service informatique est complétement intégré aux services de production et services supports de la Société.
+Vous développez et testez les applications.
+",34500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages *: 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Rust, Postgre, Kubernetes, GCP, Javascript.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 50-60k fixe + package (PEE + intéressement et Plan épargne retraite), 16 RTT, Carte Swile, Mutuelle 100% prise en charge, comité d…
+",55000.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Neovity,Toulouse,"
+Notre client est une société de conseil ayant une forte culture technique (Java, PHP, Microsoft et Data) employant + de 2000 collaborateurs en France et à l…
+",33000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+Développeur,SOQUID,Toulouse,"
+Développement, test, déploiement, maintien en condition opérationnelle et optimisation d'applications et de services.
+",40000.0,False,True,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,BINDD KC CONSEILS,Toulouse,"
+Spécialiste du recrutement de développeurs (CDI ou freelance),.
+Développeur Back end full remote en CDI,.
+5 ans d'expérience minimum.
+",55000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,BINDD KC CONSEILS,Toulouse,"
+Spécialiste du recrutement de développeurs (CDI ou freelance),.
+Développeur Back end full remote en CDI,.
+5 ans d'expérience minimum.
+",55000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,BINDD KC CONSEILS,Toulouse,"
+Spécialiste du recrutement de développeurs (CDI ou freelance),.
+Développeur Back end full remote en CDI,.
+5 ans d'expérience minimum.
+",55000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,BINDD KC CONSEILS,Toulouse,"
+Spécialiste du recrutement de développeurs (CDI ou freelance),.
+Développeur Back end full remote en CDI,.
+5 ans d'expérience minimum.
+",55000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,BINDD KC CONSEILS,Toulouse,"
+Spécialiste du recrutement de développeurs (CDI ou freelance),.
+Développeur Back end full remote en CDI,.
+5 ans d'expérience minimum.
+",55000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,BINDD KC CONSEILS,Toulouse,"
+Spécialiste du recrutement de développeurs (CDI ou freelance),.
+Développeur Back end full remote en CDI,.
+5 ans d'expérience minimum.
+",55000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,BINDD KC CONSEILS,Toulouse,"
+Spécialiste du recrutement de développeurs (CDI ou freelance),.
+Développeur Back end full remote en CDI,.
+5 ans d'expérience minimum.
+",55000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,BINDD KC CONSEILS,Toulouse,"
+Spécialiste du recrutement de développeurs (CDI ou freelance),.
+Développeur Back end full remote en CDI,.
+5 ans d'expérience minimum.
+",55000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,Lynx RH,Toulouse,"
+Vous justifiez d'une expérience significative en tant que développeur PHP ;
+Vous serez responsable de l'analyse, du développement et du test de nouvelles…
+",37500.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,False,False
+Développeur,CARRERE,Toulouse,"
+Type du poste : CDI – Temps plein *.
+*Part mutuelle prise en charge par l’employeur *.
+Prospection et recherche de terrains constructibles à destination de…
+",65000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Lynx RH,Toulouse,"
+Vous justifiez d'une expérience significative en tant que développeur PHP ;
+Vous serez responsable de l'analyse, du développement et du test de nouvelles…
+",37500.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,False,False
+Développeur,CARRERE,Toulouse,"
+Type du poste : CDI – Temps plein *.
+*Part mutuelle prise en charge par l’employeur *.
+Prospection et recherche de terrains constructibles à destination de…
+",65000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Au sein d’une équipe de 7 personnes, vous participerez au développement des applications de la gestion de production à la gestion commerciale.
+",32500.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,TOHTEM IT,Toulouse,"
+Développer et maintenir nos différentes applications PROGRESS (frontend et backend) ;
+De formation supérieure dans l'informatique, vous disposez d'une solide…
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,TOHTEM IT,Toulouse,"
+Développer et maintenir nos différentes applications PROGRESS (frontend et backend) ;
+De formation supérieure dans l'informatique, vous disposez d'une solide…
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,TOHTEM IT,Toulouse,"
+Développer et maintenir nos différentes applications PROGRESS (frontend et backend) ;
+De formation supérieure dans l'informatique, vous disposez d'une solide…
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,TOHTEM IT,Toulouse,"
+Développer et maintenir nos différentes applications PROGRESS (frontend et backend) ;
+De formation supérieure dans l'informatique, vous disposez d'une solide…
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,TOHTEM IT,Toulouse,"
+Développer et maintenir nos différentes applications PROGRESS (frontend et backend) ;
+De formation supérieure dans l'informatique, vous disposez d'une solide…
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,TOHTEM IT,Toulouse,"
+Développer et maintenir nos différentes applications PROGRESS (frontend et backend) ;
+De formation supérieure dans l'informatique, vous disposez d'une solide…
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,TOHTEM IT,Toulouse,"
+Développer et maintenir nos différentes applications PROGRESS (frontend et backend) ;
+De formation supérieure dans l'informatique, vous disposez d'une solide…
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,TOHTEM IT,Toulouse,"
+Développer et maintenir nos différentes applications PROGRESS (frontend et backend) ;
+De formation supérieure dans l'informatique, vous disposez d'une solide…
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,TOHTEM IT,Toulouse,"
+Développer et maintenir nos différentes applications PROGRESS (frontend et backend) ;
+De formation supérieure dans l'informatique, vous disposez d'une solide…
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,PRELUDD PAYMENT SERVICES,Toulouse,"
++ 5Md’€ en transit sur notre plateforme par mois avec succès.
+Nous vous proposons d’intégrer une entreprise avec un esprit Start-up, respectueuse et humaine,…
+",37500.0,False,True,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Lead Developer Senior Web H/F,STRATEG IN,Toulouse,"
+STRATEG IN est une PME tech en forte croissance.
+Elle occupe une position de premier plan dans l’édition de solution, développement sur mesure d'applications,…
+",45000.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Au sein d’une équipe de 7 personnes, vous participerez au développement des applications de la gestion de production à la gestion commerciale.
+",32500.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Senior Web H/F,STRATEG IN,Toulouse,"
+STRATEG IN est une PME tech en forte croissance.
+Elle occupe une position de premier plan dans l’édition de solution, développement sur mesure d'applications,…
+",45000.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Au sein d’une équipe de 7 personnes, vous participerez au développement des applications de la gestion de production à la gestion commerciale.
+",32500.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Senior Web H/F,STRATEG IN,Toulouse,"
+STRATEG IN est une PME tech en forte croissance.
+Elle occupe une position de premier plan dans l’édition de solution, développement sur mesure d'applications,…
+",45000.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,TOHTEM IT,Toulouse,"
+Développer et maintenir nos différentes applications PROGRESS (frontend et backend) ;
+De formation supérieure dans l'informatique, vous disposez d'une solide…
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,PRELUDD PAYMENT SERVICES,Toulouse,"
++ 5Md’€ en transit sur notre plateforme par mois avec succès.
+Nous vous proposons d’intégrer une entreprise avec un esprit Start-up, respectueuse et humaine,…
+",37500.0,False,True,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Lead Developer Senior Web H/F,STRATEG IN,Toulouse,"
+STRATEG IN est une PME tech en forte croissance.
+Elle occupe une position de premier plan dans l’édition de solution, développement sur mesure d'applications,…
+",45000.0,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,Ateliers de la Haute Garonne,Toulouse,"
+Au sein d’une équipe de 7 personnes, vous participerez au développement des applications de la gestion de production à la gestion commerciale.
+",32500.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,PRELUDD PAYMENT SERVICES,Toulouse,"
++ 5Md’€ en transit sur notre plateforme par mois avec succès.
+Nous vous proposons d’intégrer une entreprise avec un esprit Start-up, respectueuse et humaine,…
+",37500.0,False,True,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Mabble,Toulouse,"Dans le cadre de son développement, Mabble est à la recherche d'un développeur angular freelance pour le compte d'un de ses clients du secteur bancaire. Un…",91000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Link Consulting,Toulouse,"
+O Développer, maintenir et faire évoluer des applications métiers ;
+O Ecrire des cas de tests unitaires ;
+",78000,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Mabble,Toulouse,"Dans le cadre de son développement, Mabble est à la recherche d'un développeur angular freelance pour le compte d'un de ses clients du secteur bancaire. Un…",91000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Mabble,Toulouse,"Dans le cadre de son développement, Mabble est à la recherche d'un développeur angular freelance pour le compte d'un de ses clients du secteur bancaire. Un…",91000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Mabble,Toulouse,"Dans le cadre de son développement, Mabble est à la recherche d'un développeur angular freelance pour le compte d'un de ses clients du secteur bancaire. Un…",91000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Mabble,Toulouse,"Dans le cadre de son développement, Mabble est à la recherche d'un développeur angular freelance pour le compte d'un de ses clients du secteur bancaire. Un…",91000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Mabble,Toulouse,"Dans le cadre de son développement, Mabble est à la recherche d'un développeur angular freelance pour le compte d'un de ses clients du secteur bancaire. Un…",91000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Mabble,Toulouse,"Dans le cadre de son développement, Mabble est à la recherche d'un développeur angular freelance pour le compte d'un de ses clients du secteur bancaire. Un…",91000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,TOHTEM IT,Toulouse,"
+De formation BAC+5 en informatique, vous justifiez d'une première expérience stage y compris.
+Vous êtes disponible, autonome et avez de grande capacité d…
+",36500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Domaine d’activité : Environnement / Greentech*.
+Salaire et Avantages : 42-50K +2 à 3K Variable + Mutuelle 100% + Tickets restaurant*.
+",45000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Seyos,Toulouse,"
+En évolution constante, cette solution de pointe rassemble désormais plus de 20 millions d'utilisateurs.
+Intégré au sein d'une équipe de 10 personnes, vous…
+",40000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+INGENIEUR DEVOPS F/H,TOHTEM IT,Toulouse,"
+Etant curieux de découvrir les nouvelles technologies, vous êtes un(e) développeur généraliste, avec debonne connaissances des bases de données (SQL, et noSQL)…
+",40000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"DESCRIPTION DE L'OFFRE Je suis Thomas, consultant en recrutement chez Externatic. Je vous propose aujourd’hui de découvrir l’offre ci-dessous et d’échanger…",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,EXTERNATIC,Toulouse,"
+Depuis sa création en 2005, cet éditeur de solutions logicielles est devenu l'un des acteurs majeurs du monde du logiciel Open Source.
+",50000.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"Au sein de l’équipe Engineering, tu participeras à la réalisation de nos différentes applications commercialisées en mode SaaS. \* Travail selon la…",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,openailrines,Toulouse,"
+\* Conception et développement de nouveaux modules ou nouvelles fonctions du logiciel.
+\* Maintenance de la solution actuelle en production auprès de plus de 45…
+",45000.0,True,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,My PepIT,Toulouse,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Android - Full remote (H/F),My PepIT,Toulouse,"
+Domaine d’activité : *Environnement / Greentech.
+Salaire et Avantages *: 47-55k + 3-4k (13ème mois) + Mutuelle 100% + Tickets restaurant.
+",51000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Android - Full remote (H/F),My PepIT,Toulouse,"
+Domaine d’activité : *Environnement / Greentech.
+Salaire et Avantages *: 47-55k + 3-4k (13ème mois) + Mutuelle 100% + Tickets restaurant.
+",51000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Android - Full remote (H/F),My PepIT,Toulouse,"
+Domaine d’activité : *Environnement / Greentech.
+Salaire et Avantages *: 47-55k + 3-4k (13ème mois) + Mutuelle 100% + Tickets restaurant.
+",51000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Android - Full remote (H/F),My PepIT,Toulouse,"
+Domaine d’activité : *Environnement / Greentech.
+Salaire et Avantages *: 47-55k + 3-4k (13ème mois) + Mutuelle 100% + Tickets restaurant.
+",51000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Android - Full remote (H/F),My PepIT,Toulouse,"
+Domaine d’activité : *Environnement / Greentech.
+Salaire et Avantages *: 47-55k + 3-4k (13ème mois) + Mutuelle 100% + Tickets restaurant.
+",51000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Android - Full remote (H/F),My PepIT,Toulouse,"
+Domaine d’activité : *Environnement / Greentech.
+Salaire et Avantages *: 47-55k + 3-4k (13ème mois) + Mutuelle 100% + Tickets restaurant.
+",51000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Android - Full remote (H/F),My PepIT,Toulouse,"
+Domaine d’activité : *Environnement / Greentech.
+Salaire et Avantages *: 47-55k + 3-4k (13ème mois) + Mutuelle 100% + Tickets restaurant.
+",51000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Android - Full remote (H/F),My PepIT,Toulouse,"
+Domaine d’activité : *Environnement / Greentech.
+Salaire et Avantages *: 47-55k + 3-4k (13ème mois) + Mutuelle 100% + Tickets restaurant.
+",51000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Android - Full remote (H/F),My PepIT,Toulouse,"
+Domaine d’activité : *Environnement / Greentech.
+Salaire et Avantages *: 47-55k + 3-4k (13ème mois) + Mutuelle 100% + Tickets restaurant.
+",51000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Lead Developer Android - Full remote (H/F),My PepIT,Toulouse,"
+Domaine d’activité : *Environnement / Greentech.
+Salaire et Avantages *: 47-55k + 3-4k (13ème mois) + Mutuelle 100% + Tickets restaurant.
+",51000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False

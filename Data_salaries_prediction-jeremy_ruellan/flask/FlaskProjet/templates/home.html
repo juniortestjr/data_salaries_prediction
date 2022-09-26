@@ -1,0 +1,147 @@
+{% extends "layout.html" %}
+
+{% block content %}
+  
+<div class="container" style="margin-top: 20px;">
+    <div class="card">
+        <div class="card-header text-center">
+            <h4><b>Analyse de Régression par Forêts Aléatoires: Prédiction du Salaire</b></h4>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="card">
+                        <div class="card-header text-center"><h5><b>Description de l'Annonce du Job</b></h5></div>
+                        <form id="inputForm">
+                        <div class="card-body"> 
+                            
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label class="control-label">Le Job</label>
+                                </div>
+                                <div class="col-md-9">
+                                    <select class="form-control" type="form-select" aria-label="Default select example" name="Title" id="crimInputBoxId2" >
+                                        <option selected>Open this select menu</option>
+                                        <option value="77.0">Developer</option>
+                                        <option value="61.0">Data Scientist</option>
+                                        <option value="51.0">Data Analyst</option>
+                                        <option value="20.0">Business Intelligence</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label class="control-label">Le lieu</label>
+                                </div>
+                                <div class="col-md-9">
+                                    <select class="form-control" type="form-select" aria-label="Default select example" name="Location" id="crimInputBoxId2" >
+                                        <option selected>Open this select menu</option>
+                                        <option value="11.0">Paris</option>
+                                        <option value="5.0">Lyon</option>
+                                        <option value="16.0">Toulouse</option>
+                                        <option value="7.0">Nantes</option>
+                                        <option value="3.0">Bordeaux</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                      
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <label class="control-label">Les Compétences</label>
+                                </div>
+                                <div class="col-md-9">
+                                    <select name="Competences[]" multiple="multiple" class="3col active form-control">
+                                        <option value="Experience">Expérience</option>
+                                        <option value="Anglais">Anglais</option>
+                                        <option value="Python">Python</option>
+                                        <option value="SQL">SQL</option>
+                                        <option value="Azure">Azure</option>
+                                        <option value="Spark">Spark</option>
+                                        <option value="Dataiku">Dataiku</option>
+                                        <option value="AWS">AWS</option>
+                                        <option value="GCP">GCP</option>
+                                        <option value="Spacy">Spacy</option>
+                                        <option value="NLTK">NLTK</option>
+                                        <option value="HuggingFace">Hugging Face</option>
+                                        <option value="BERT">BERT</option>
+                                        <option value="Bac+1">Bac+1</option>
+                                        <option value="Bac+2">Bac+2</option>
+                                        <option value="Bac+3">Bac+3</option>
+                                        <option value="Bac+4">Bac+4</option>
+                                        <option value="Bac+5">Bac+5</option>
+                                        <option value="Bac+4/5">Bac+4/5</option>
+                                        <option value="Bac+3/4">Bac+3/4</option>
+                                        <option value="TensorFlow">TensorFlow</option>
+                                        <option value="Torch">Torch</option>
+                                        <option value="PyTorch">PyTorch</option>
+                                        <option value="Keras">Keras</option>
+                                        <option value="Django">Django</option>
+                                        <option value="Javascript">Javascript</option>
+                                        <option value="MongoDB">MongoDB</option>
+                                        <option value="Master">Master</option>
+                                        <option value="PostgreSQL">PostgreSQL</option>
+                                        <option value="PowerBI">Power BI</option>
+                                        <option value="Nodejs">Nodejs</option>
+                                        <option value="Node">Node</option>
+                                        <option value="PHP">PHP</option>
+                                        <option value="ASP">ASP</option>
+                                        <option value="Java">Java</option>
+                                        <option value="C++">C++</option>
+                                        <option value="Flutter">Flutter</option>
+                                        <option value="Dart">Dart</option>
+                                        <option value="Flask">Flask</option>
+                                        <option value="mySQL">mySQL</option>
+                                        <option value="Jquery">Jquery</option>
+                                        <option value="CSS">CSS</option>
+                                        <option value="HTML">HTML</option>
+                                        <option value="XML">XML</option>
+                                        <option value="SGBD">SGBD</option>
+                                        <option value="Agile">Agile</option>
+                                        <option value="Scrum">Scrum</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="card-footer text-center">
+                                <button type = "button" class="btn btn-primary" onclick="getResult()" value = "submit" style="cursor: pointer;">Predict</button>
+                            </div>
+                        </div>
+                    </form>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                    <div class="card-header text-center"><h5><b>Résultat de la Prédiction</b></h5></div>
+                    <div class="card-body">
+                        <div class="row">
+                            Salaire Prédit par le Modèle est ->&nbsp;&nbsp; <span style="color:rgb(0, 4, 255)"><p class="font-weight-bold text-primary" id="result"></p></span>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function getResult(){
+        $("#progressBar").modal('show')
+        $.ajax({
+           type: "POST",
+           url: "{{url_for('getResponseLinearReg')}}",
+           data: $("#inputForm").serialize(), // serializes the form's elements.
+           success: function(data)
+           {
+              $("#result").html(data); 
+           },complete:function()
+           {
+            $("#progressBar").modal('hide')
+           }
+         });
+    }
+</script>
+
+{% endblock %}

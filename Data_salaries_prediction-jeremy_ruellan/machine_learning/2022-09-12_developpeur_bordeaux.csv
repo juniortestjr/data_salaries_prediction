@@ -1,0 +1,564 @@
+Title,Company,Location,Description,Salary,Expérience,Anglais,Python,SQL,Azure,Spark,Dataiku,AWS,GCP,Spacy,NLTK,Hugging Face,BERT,Bac+1,Bac+2,Bac+3,Bac+4,Bac+5,Bac+4/5,Bac+3/4,TensorFlow,Torch,PyTorch,Keras,Django,Javascript,MongoDB,Master,PostgreSQL,Power BI,Nodejs,Node,PHP,ASP,Java,C++,Flutter,Dart,Flask,mySQL,Jquery,CSS,HTML,XML,SGBD,Agile,Scrum
+Développeur,FULL ACE,Bordeaux,"
+Le Groupe FULL ACE,* spécialisé dans les domaines de l’objet et vêtement d’image, du packaging de luxe et du merchandising sportif & événementiel, fait partie…
+",27500.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,IMMERSION,Bordeaux,"
+Collaborer avec les développeurs logiciels afin de définir, implémenter, vérifier puis déployer vos réalisations.
+",29000,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False,True,True,False,True,True,False,False,False,False,False,True,True,False,False,True,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,#APTIC,Toulouse,"
+L'ensemble des flux de données liés aux pass numériques.
+Les traitements, analyses, corrections et maintenances de l'ensemble des données,.
+",40000.0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,#APTIC,Toulouse,"
+L'ensemble des flux de données liés aux pass numériques.
+Les traitements, analyses, corrections et maintenances de l'ensemble des données,.
+",40000.0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ARCESI NAQ,Bordeaux,"
+Pour répondre au besoin de notre client situé au Haillan, nous recherchons un développeur JAVA junior pour intervenir au sein d’une équipe projet pour le compte…
+",27500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,False
+Développeur,#APTIC,Toulouse,"
+L'ensemble des flux de données liés aux pass numériques.
+Les traitements, analyses, corrections et maintenances de l'ensemble des données,.
+",40000.0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ARCESI NAQ,Bordeaux,"
+Pour répondre au besoin de notre client situé au Haillan, nous recherchons un développeur JAVA junior pour intervenir au sein d’une équipe projet pour le compte…
+",27500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,#APTIC,Toulouse,"
+L'ensemble des flux de données liés aux pass numériques.
+Les traitements, analyses, corrections et maintenances de l'ensemble des données,.
+",40000.0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,#APTIC,Toulouse,"
+L'ensemble des flux de données liés aux pass numériques.
+Les traitements, analyses, corrections et maintenances de l'ensemble des données,.
+",40000.0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,#APTIC,Toulouse,"
+L'ensemble des flux de données liés aux pass numériques.
+Les traitements, analyses, corrections et maintenances de l'ensemble des données,.
+",40000.0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ARCESI NAQ,Bordeaux,"
+Pour répondre au besoin de notre client situé au Haillan, nous recherchons un développeur JAVA junior pour intervenir au sein d’une équipe projet pour le compte…
+",27500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,#APTIC,Toulouse,"
+L'ensemble des flux de données liés aux pass numériques.
+Les traitements, analyses, corrections et maintenances de l'ensemble des données,.
+",40000.0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ARCESI NAQ,Bordeaux,"
+Pour répondre au besoin de notre client situé au Haillan, nous recherchons un développeur JAVA junior pour intervenir au sein d’une équipe projet pour le compte…
+",27500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,False
+Développeur,#APTIC,Toulouse,"
+L'ensemble des flux de données liés aux pass numériques.
+Les traitements, analyses, corrections et maintenances de l'ensemble des données,.
+",40000.0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,ARCESI NAQ,Bordeaux,"
+Pour répondre au besoin de notre client situé au Haillan, nous recherchons un développeur JAVA junior pour intervenir au sein d’une équipe projet pour le compte…
+",27500.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,False
+Développeur,#APTIC,Toulouse,"
+L'ensemble des flux de données liés aux pass numériques.
+Les traitements, analyses, corrections et maintenances de l'ensemble des données,.
+",40000.0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,AVK Consulting,Bordeaux,"
+*Qui est passionné.e par l'informatique*.
+*Qui veut avoir le choix de son poste de travail et des horaires flexibles (télé-travail ou en entreprise)*.
+",35000.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Levertech Consulting,Bordeaux,"
+Intégré(e) à l’équipe technique sous la responsabilité du CTO.
+Maintenir une bonne qualité de code, participer à des code review.
+",46000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Levertech Consulting,Bordeaux,"
+Intégré(e) à l’équipe technique sous la responsabilité du CTO.
+Maintenir une bonne qualité de code, participer à des code review.
+",46000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Levertech Consulting,Bordeaux,"
+Intégré(e) à l’équipe technique sous la responsabilité du CTO.
+Maintenir une bonne qualité de code, participer à des code review.
+",46000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Levertech Consulting,Bordeaux,"
+Intégré(e) à l’équipe technique sous la responsabilité du CTO.
+Maintenir une bonne qualité de code, participer à des code review.
+",46000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Levertech Consulting,Bordeaux,"
+Intégré(e) à l’équipe technique sous la responsabilité du CTO.
+Maintenir une bonne qualité de code, participer à des code review.
+",46000.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,MATEN,Bordeaux,"
+MATEN, société de services à taille humaine, avec plus de 30 ans d’expertise, intervient en ingénierie informatique et conseil en recrutement auprès de ses…
+",45000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,Edusign,Bordeaux,"
+Les tâches des développeurs chez Edusign*.
+Edusign - Feuilles de présence dématérialisées, questionnaires et documents pour la formation.*.
+",44500.0,True,False,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,MATEN,Bordeaux,"
+MATEN, société de services à taille humaine, avec plus de 30 ans d’expertise, intervient en ingénierie informatique et conseil en recrutement auprès de ses…
+",45000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,NEEVA,Bordeaux,"_Neeva Concepteur/éditeur de solution de gestion des ressources humaines depuis 17 ans en mode Licence et Saas : module de gestion de la formation, gestion…",31000.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,Groupagora,Bordeaux,"
+Sous la Responsabilité du Responsable Développement, le collaborateur intégrera une équipe de 9 personnes fonctionnant selon les principes de la méthodologie…
+",35000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,Groupagora,Bordeaux,"
+Sous la Responsabilité du Responsable Développement, le collaborateur intégrera une équipe de 9 personnes fonctionnant selon les principes de la méthodologie…
+",35000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,Groupagora,Bordeaux,"
+Sous la Responsabilité du Responsable Développement, le collaborateur intégrera une équipe de 9 personnes fonctionnant selon les principes de la méthodologie…
+",35000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,NEEVA,Bordeaux,"
+Elaboration des dossiers de conception technique à partir d'un cahier des charges fonctionnel,.
+Développement de nouvelles fonctionnalités, test et…
+",31000.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,NEEVA,Bordeaux,"
+Elaboration des dossiers de conception technique à partir d'un cahier des charges fonctionnel,.
+Développement de nouvelles fonctionnalités, test et…
+",31000.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,NEEVA,Bordeaux,"
+Elaboration des dossiers de conception technique à partir d'un cahier des charges fonctionnel,.
+Développement de nouvelles fonctionnalités, test et…
+",31000.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,NEEVA,Bordeaux,"
+Elaboration des dossiers de conception technique à partir d'un cahier des charges fonctionnel,.
+Développement de nouvelles fonctionnalités, test et…
+",31000.0,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,My PepIT,Bordeaux,"
+Salaire et Avantages* : 50-60k fixe + package (PEE + intéressement et Plan épargne retraite), 16 RTT, Carte Swile, Mutuelle 100% prise en charge, comité d…
+",55000.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,OBVY,Bordeaux,"
+Obvy propose une solution transactionnelle unifiée unique sur le marché, faisant économiser plusieurs mois de travail et des dizaines de milliers d’euros à ses…
+",36000.0,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,OBVY,Bordeaux,"
+Obvy propose une solution transactionnelle unifiée unique sur le marché, faisant économiser plusieurs mois de travail et des dizaines de milliers d’euros à ses…
+",36000.0,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,OBVY,Bordeaux,"
+Obvy propose une solution transactionnelle unifiée unique sur le marché, faisant économiser plusieurs mois de travail et des dizaines de milliers d’euros à ses…
+",36000.0,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,OBVY,Bordeaux,"
+Obvy propose une solution transactionnelle unifiée unique sur le marché, faisant économiser plusieurs mois de travail et des dizaines de milliers d’euros à ses…
+",36000.0,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,ETHICS Group,Bordeaux,"
+La conception et réalisation d’outils multiplateformes (tablette, smartphone, pc, mode Saas) avec les technologies numériques actuelles en lien avec notre offre…
+",37500.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,True,False
+Développeur,My PepIT,Bordeaux,"
+Salaire et Avantages* : 60-70K fixe + stock options + RTT + Ticket restaurant.
+Environnement technique *: Javascript / Angular 13, Postgre, Kubernetes, GCP.
+",65000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,BINDD KC CONSEILS,Bordeaux,"
+Spécialiste du recrutement de développeurs (CDI ou freelance),.
+Développeur Back end full remote en CDI,.
+5 ans d'expérience minimum.
+",55000.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+Développeur,EXTERNATIC,Bordeaux,"
+Avantages : 10 RTT, Congés d'ancienneté, Mutuelle, Tickets restaurants, CSE, Allocation matériel télétravail, CET, PERCO, Horaires de travail flexibles,…
+",44000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Smily RH,Bordeaux,"
+Notre volonté est de répondre au plus près de vos envies et de votre ambition.
+Notre client, groupe industriel dans l'IoT, recherche un.e développeur.se Full…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Smily RH,Bordeaux,"
+Notre volonté est de répondre au plus près de vos envies et de votre ambition.
+Notre client, groupe industriel dans l'IoT, recherche un.e développeur.se Full…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Smily RH,Bordeaux,"
+Notre volonté est de répondre au plus près de vos envies et de votre ambition.
+Notre client, groupe industriel dans l'IoT, recherche un.e développeur.se Full…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Smily RH,Bordeaux,"
+Notre volonté est de répondre au plus près de vos envies et de votre ambition.
+Notre client, groupe industriel dans l'IoT, recherche un.e développeur.se Full…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Smily RH,Bordeaux,"
+Notre volonté est de répondre au plus près de vos envies et de votre ambition.
+Notre client, groupe industriel dans l'IoT, recherche un.e développeur.se Full…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Smily RH,Bordeaux,"
+Notre volonté est de répondre au plus près de vos envies et de votre ambition.
+Notre client, groupe industriel dans l'IoT, recherche un.e développeur.se Full…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Smily RH,Bordeaux,"
+Notre volonté est de répondre au plus près de vos envies et de votre ambition.
+Notre client, groupe industriel dans l'IoT, recherche un.e développeur.se Full…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Smily RH,Bordeaux,"
+Notre volonté est de répondre au plus près de vos envies et de votre ambition.
+Notre client, groupe industriel dans l'IoT, recherche un.e développeur.se Full…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Smily RH,Bordeaux,"
+Notre volonté est de répondre au plus près de vos envies et de votre ambition.
+Notre client, groupe industriel dans l'IoT, recherche un.e développeur.se Full…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,EXTERNATIC,Bordeaux,"
+Avantages : 10 RTT, Congés d'ancienneté, Mutuelle, Tickets restaurants, CSE, Allocation matériel télétravail, CET, PERCO, Horaires de travail flexibles,…
+",41000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,NEXTGEN RH,Bordeaux,"
+Avec plus de 300 postes en CDI à pourvoir sur toute la France, NEXTGEN RH est un cabinet de recrutement qui se positionne comme un véritable guide pour ses…
+",42500.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,HOREA CONSEIL,Bordeaux,"
+Notre cabinet *HOREA Conseil*, Pôle *Digital*, recrute pour l’Université de Bordeaux un(e) :
+Développeur Full Stack H/F*.
+Assurer un support de niveau 3.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,TEAM IS,Bordeaux,"
+Lancé en 2021, Team.is est une start-up de recrutement spécialisée dans la chasse et le recrutement de profils IT, Digital, Ingénierie & Supply Chain.
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Seyos,Bordeaux,"
+En tant que développeur back-end, vous avez pour responsabilité de :
+Une partie de l'équipe étant installée sur Bordeaux, le pôle cherche aujourd'hui à se…
+",55000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Seyos,Bordeaux,"
+Prendre part au choix technique: encadrer les développements, participer jusqu'à la mise en production, veiller à la qualité du code.
+",55000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Seyos,Bordeaux,"
+Prendre part au choix technique: encadrer les développements, participer jusqu'à la mise en production, veiller à la qualité du code.
+",55000.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,HOREA CONSEIL,Bordeaux,"
+Labellisée « campus d’excellence », l’Université de Bordeaux se positionne parmi les plus grandes universités européennes*.*.
+Type d'emploi : CDD, Temps plein.
+",39000.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,TEAM IS,Bordeaux,"
+Team.is possède l’expertise et l’énergie pour s’attaquer à n’importe quel défi.
+Nous sommes déterminés à réaliser le meilleur travail possible pour cultiver des…
+",47500.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True
+Développeur,Seyos,Bordeaux,"
+Pour cela, ils viennent d'effectuer une levée de fonds de 40 Millions d'Euros auprès d'acteurs experts dans le domaine.
+",52500.0,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+DÉVELOPPEURS EMBARQUÉ ANDROID (H/F),REACTIS,Bordeaux,"
+Réactis recherche des Ingénieurs en étude et développement Informatique logiciels embarqués (Android (studio) & LINUX, Java, Kotlin, C & C++,... ).
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+DÉVELOPPEURS EMBARQUÉ ANDROID (H/F),REACTIS,Bordeaux,"
+Réactis recherche des Ingénieurs en étude et développement Informatique logiciels embarqués (Android (studio) & LINUX, Java, Kotlin, C & C++,... ).
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+DÉVELOPPEURS EMBARQUÉ ANDROID (H/F),REACTIS,Bordeaux,"
+Réactis recherche des Ingénieurs en étude et développement Informatique logiciels embarqués (Android (studio) & LINUX, Java, Kotlin, C & C++,... ).
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+DÉVELOPPEURS EMBARQUÉ ANDROID (H/F),REACTIS,Bordeaux,"
+Réactis recherche des Ingénieurs en étude et développement Informatique logiciels embarqués (Android (studio) & LINUX, Java, Kotlin, C & C++,... ).
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+DÉVELOPPEURS EMBARQUÉ ANDROID (H/F),REACTIS,Bordeaux,"
+Réactis recherche des Ingénieurs en étude et développement Informatique logiciels embarqués (Android (studio) & LINUX, Java, Kotlin, C & C++,... ).
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+DÉVELOPPEURS EMBARQUÉ ANDROID (H/F),REACTIS,Bordeaux,"
+Réactis recherche des Ingénieurs en étude et développement Informatique logiciels embarqués (Android (studio) & LINUX, Java, Kotlin, C & C++,... ).
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+DÉVELOPPEURS EMBARQUÉ ANDROID (H/F),REACTIS,Bordeaux,"
+Réactis recherche des Ingénieurs en étude et développement Informatique logiciels embarqués (Android (studio) & LINUX, Java, Kotlin, C & C++,... ).
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+DÉVELOPPEURS EMBARQUÉ ANDROID (H/F),REACTIS,Bordeaux,"
+Réactis recherche des Ingénieurs en étude et développement Informatique logiciels embarqués (Android (studio) & LINUX, Java, Kotlin, C & C++,... ).
+",37500.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"#çamatchentrenous✅ Entreprise à taille humaine ✅ Projets stimulants ✅ Bien-être des collaborateurs "" L’aventure a commencé pour nous il y a plus de 8 ans à 3…",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+#çamatchentrenous✅ Entreprise à taille humaine.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+#çamatchentrenous✅ Entreprise à taille humaine.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Développeur,Work&You,Bordeaux,"
+Actuellement en plein développement, nous recherchons un développeur symfony H/F pour renforcer nos équipes."" ‍.
+",35000.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
